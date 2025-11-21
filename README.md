@@ -12,6 +12,11 @@ As part of this parent project, our aim is to:
 Synthetic data offers a promising approach to overcoming challenges in data access and enabling broad sharing of AI-ready datasets in health research, particularly in **resource-constrained settings**.  
 
 ---
+## Publication
+This project is described in detail in the following peer-reviewed publication:
+_Synthetic data generation of health and demographic surveillance systems data: a case study in a low- and middle-income country_
+JAMIA Open, Volume 8, Issue 6, December 2025
+🔗 https://doi.org/10.1093/jamiaopen/ooaf137
 
 ## Data Access
 Data are available through the **Inter-university Consortium for Political and Social Research (ICPSR)**, a unit of the Institute for Social Research at the University of Michigan:  
